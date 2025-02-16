@@ -1,4 +1,4 @@
-Let me show you how to actually use this system step by step.
+## Let me show you how to actually use this system step by step.
 
 1. First, set up the system:
 
@@ -64,7 +64,7 @@ Gaming Mouse: 13 remaining
 
 ## The system would be particularly useful if you need to:
 
-Track inventory for a small shop
-Manage a warehouse
-Keep track of supplies
-Monitor stock levels
+Track inventory for a small shop,
+Manage a warehouse,
+Keep track of supplies,
+Monitor stock levels,
